@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F04%2F26%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>函数模板</title>
+      <link href="/2019/04/29/function-template/"/>
+      <url>/2019/04/29/function-template/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> cs </category>
+          
+          <category> lang </category>
+          
+          <category> cpp </category>
+          
+          <category> cpp templates:the complete guide </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cs </tag>
+            
+            <tag> lang </tag>
+            
+            <tag> cpp </tag>
+            
+            <tag> template </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
